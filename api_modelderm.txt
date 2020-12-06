@@ -1,0 +1,150 @@
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3270,Insect bite,0.1902,Hematoma,0.0875,Pompholyx,0.0657,Hand eczema,0.0523,Xerotic eczema,0.0477,Nonspecific (normal),0.0327,Congenital nevus,0.0211,Atopic dermatitis,0.0196,Dysplastic nevus,0.0123</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3628,Xerotic eczema,0.2519,Insect bite,0.1283,Nonspecific (normal),0.0832,Erythema nodosum,0.0138,Lentigo,0.0106,Herpes zoster,0.0106,Cherry Hemangioma,0.0104,Folliculitis,0.0100,Epidermal cyst,0.0096</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3633,Insect bite,0.2138,Xerotic eczema,0.1569,Dysplastic nevus,0.0771,Congenital nevus,0.0202,Erythema nodosum,0.0153,Epidermal cyst,0.0144,Nonspecific (normal),0.0120,Herpes zoster,0.0117,Hematoma,0.0113</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Pompholyx,0.2047,Callus,0.1891,Insect bite,0.1033,Hand eczema,0.0927,Keratoderma,0.0588,Xerotic eczema,0.0381,Melanocytic nevus,0.0339,Contact dermatitis,0.0324,Portwine stain,0.0299,Cellulitis,0.0245</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Cherry Hemangioma,0.4871,Insect bite,0.2665,Hemangioma,0.0468,Xerotic eczema,0.0392,Herpes zoster,0.0260,Erosion/Laceration,0.0240,Inflammed cyst,0.0112,Purpura,0.0098,Folliculitis,0.0088,Acne,0.0070</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.4045,Insect bite,0.1800,Xerotic eczema,0.0761,Cherry Hemangioma,0.0440,Inflammed cyst,0.0429,Herpes zoster,0.0397,Erosion/Laceration,0.0273,Epidermal cyst,0.0168,Skin tag,0.0161,Acne,0.0147</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3430,Insect bite,0.2889,Xerotic eczema,0.1319,Keratosis pilaris,0.0671,Skin tag,0.0387,Nonspecific (normal),0.0299,Folliculitis,0.0192,Lichen nitidus,0.0163,Cherry Hemangioma,0.0119,Acne,0.0108</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2772,Skin tag,0.2716,Melanocytic nevus,0.1242,Xerotic eczema,0.0577,Herpes zoster,0.0429,Inflammed cyst,0.0259,Contact dermatitis,0.0181,Hemangioma,0.0160,Cherry Hemangioma,0.0158,Dysplastic nevus,0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.1241,Inflammed cyst,0.1139,Angiokeratoma,0.1090,Hemangioma,0.1017,Insect bite,0.0831,Xerotic eczema,0.0704,Skin tag,0.0529,Herpes zoster,0.0351,Herpes simplex,0.0328,Erosion/Laceration,0.0304</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2728,Melanocytic nevus,0.2456,Xerotic eczema,0.0761,Hemangioma,0.0704,Folliculitis,0.0561,Cherry Hemangioma,0.0379,Skin tag,0.0357,Dysplastic nevus,0.0356,Inflammed cyst,0.0240,Nonspecific (normal),0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3270,Insect bite,0.1902,Hematoma,0.0875,Pompholyx,0.0657,Hand eczema,0.0523,Xerotic eczema,0.0477,Nonspecific (normal),0.0327,Congenital nevus,0.0211,Atopic dermatitis,0.0196,Dysplastic nevus,0.0123</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3628,Xerotic eczema,0.2519,Insect bite,0.1283,Nonspecific (normal),0.0832,Erythema nodosum,0.0138,Lentigo,0.0106,Herpes zoster,0.0106,Cherry Hemangioma,0.0104,Folliculitis,0.0100,Epidermal cyst,0.0096</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3633,Insect bite,0.2138,Xerotic eczema,0.1569,Dysplastic nevus,0.0771,Congenital nevus,0.0202,Erythema nodosum,0.0153,Epidermal cyst,0.0144,Nonspecific (normal),0.0120,Herpes zoster,0.0117,Hematoma,0.0113</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Pompholyx,0.2047,Callus,0.1891,Insect bite,0.1033,Hand eczema,0.0927,Keratoderma,0.0588,Xerotic eczema,0.0381,Melanocytic nevus,0.0339,Contact dermatitis,0.0324,Portwine stain,0.0299,Cellulitis,0.0245</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Cherry Hemangioma,0.4871,Insect bite,0.2665,Hemangioma,0.0468,Xerotic eczema,0.0392,Herpes zoster,0.0260,Erosion/Laceration,0.0240,Inflammed cyst,0.0112,Purpura,0.0098,Folliculitis,0.0088,Acne,0.0070</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.4045,Insect bite,0.1800,Xerotic eczema,0.0761,Cherry Hemangioma,0.0440,Inflammed cyst,0.0429,Herpes zoster,0.0397,Erosion/Laceration,0.0273,Epidermal cyst,0.0168,Skin tag,0.0161,Acne,0.0147</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3430,Insect bite,0.2889,Xerotic eczema,0.1319,Keratosis pilaris,0.0671,Skin tag,0.0387,Nonspecific (normal),0.0299,Folliculitis,0.0192,Lichen nitidus,0.0163,Cherry Hemangioma,0.0119,Acne,0.0108</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2772,Skin tag,0.2716,Melanocytic nevus,0.1242,Xerotic eczema,0.0577,Herpes zoster,0.0429,Inflammed cyst,0.0259,Contact dermatitis,0.0181,Hemangioma,0.0160,Cherry Hemangioma,0.0158,Dysplastic nevus,0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.1241,Inflammed cyst,0.1139,Angiokeratoma,0.1090,Hemangioma,0.1017,Insect bite,0.0831,Xerotic eczema,0.0704,Skin tag,0.0529,Herpes zoster,0.0351,Herpes simplex,0.0328,Erosion/Laceration,0.0304</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2728,Melanocytic nevus,0.2456,Xerotic eczema,0.0761,Hemangioma,0.0704,Folliculitis,0.0561,Cherry Hemangioma,0.0379,Skin tag,0.0357,Dysplastic nevus,0.0356,Inflammed cyst,0.0240,Nonspecific (normal),0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3270,Insect bite,0.1902,Hematoma,0.0875,Pompholyx,0.0657,Hand eczema,0.0523,Xerotic eczema,0.0477,Nonspecific (normal),0.0327,Congenital nevus,0.0211,Atopic dermatitis,0.0196,Dysplastic nevus,0.0123</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3628,Xerotic eczema,0.2519,Insect bite,0.1283,Nonspecific (normal),0.0832,Erythema nodosum,0.0138,Lentigo,0.0106,Herpes zoster,0.0106,Cherry Hemangioma,0.0104,Folliculitis,0.0100,Epidermal cyst,0.0096</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3633,Insect bite,0.2138,Xerotic eczema,0.1569,Dysplastic nevus,0.0771,Congenital nevus,0.0202,Erythema nodosum,0.0153,Epidermal cyst,0.0144,Nonspecific (normal),0.0120,Herpes zoster,0.0117,Hematoma,0.0113</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Pompholyx,0.2047,Callus,0.1891,Insect bite,0.1033,Hand eczema,0.0927,Keratoderma,0.0588,Xerotic eczema,0.0381,Melanocytic nevus,0.0339,Contact dermatitis,0.0324,Portwine stain,0.0299,Cellulitis,0.0245</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Cherry Hemangioma,0.4871,Insect bite,0.2665,Hemangioma,0.0468,Xerotic eczema,0.0392,Herpes zoster,0.0260,Erosion/Laceration,0.0240,Inflammed cyst,0.0112,Purpura,0.0098,Folliculitis,0.0088,Acne,0.0070</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.4045,Insect bite,0.1800,Xerotic eczema,0.0761,Cherry Hemangioma,0.0440,Inflammed cyst,0.0429,Herpes zoster,0.0397,Erosion/Laceration,0.0273,Epidermal cyst,0.0168,Skin tag,0.0161,Acne,0.0147</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3430,Insect bite,0.2889,Xerotic eczema,0.1319,Keratosis pilaris,0.0671,Skin tag,0.0387,Nonspecific (normal),0.0299,Folliculitis,0.0192,Lichen nitidus,0.0163,Cherry Hemangioma,0.0119,Acne,0.0108</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2772,Skin tag,0.2716,Melanocytic nevus,0.1242,Xerotic eczema,0.0577,Herpes zoster,0.0429,Inflammed cyst,0.0259,Contact dermatitis,0.0181,Hemangioma,0.0160,Cherry Hemangioma,0.0158,Dysplastic nevus,0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.1241,Inflammed cyst,0.1139,Angiokeratoma,0.1090,Hemangioma,0.1017,Insect bite,0.0831,Xerotic eczema,0.0704,Skin tag,0.0529,Herpes zoster,0.0351,Herpes simplex,0.0328,Erosion/Laceration,0.0304</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2728,Melanocytic nevus,0.2456,Xerotic eczema,0.0761,Hemangioma,0.0704,Folliculitis,0.0561,Cherry Hemangioma,0.0379,Skin tag,0.0357,Dysplastic nevus,0.0356,Inflammed cyst,0.0240,Nonspecific (normal),0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3270,Insect bite,0.1902,Hematoma,0.0875,Pompholyx,0.0657,Hand eczema,0.0523,Xerotic eczema,0.0477,Nonspecific (normal),0.0327,Congenital nevus,0.0211,Atopic dermatitis,0.0196,Dysplastic nevus,0.0123</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3628,Xerotic eczema,0.2519,Insect bite,0.1283,Nonspecific (normal),0.0832,Erythema nodosum,0.0138,Lentigo,0.0106,Herpes zoster,0.0106,Cherry Hemangioma,0.0104,Folliculitis,0.0100,Epidermal cyst,0.0096</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3633,Insect bite,0.2138,Xerotic eczema,0.1569,Dysplastic nevus,0.0771,Congenital nevus,0.0202,Erythema nodosum,0.0153,Epidermal cyst,0.0144,Nonspecific (normal),0.0120,Herpes zoster,0.0117,Hematoma,0.0113</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Pompholyx,0.2047,Callus,0.1891,Insect bite,0.1033,Hand eczema,0.0927,Keratoderma,0.0588,Xerotic eczema,0.0381,Melanocytic nevus,0.0339,Contact dermatitis,0.0324,Portwine stain,0.0299,Cellulitis,0.0245</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Cherry Hemangioma,0.4871,Insect bite,0.2665,Hemangioma,0.0468,Xerotic eczema,0.0392,Herpes zoster,0.0260,Erosion/Laceration,0.0240,Inflammed cyst,0.0112,Purpura,0.0098,Folliculitis,0.0088,Acne,0.0070</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.4045,Insect bite,0.1800,Xerotic eczema,0.0761,Cherry Hemangioma,0.0440,Inflammed cyst,0.0429,Herpes zoster,0.0397,Erosion/Laceration,0.0273,Epidermal cyst,0.0168,Skin tag,0.0161,Acne,0.0147</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3430,Insect bite,0.2889,Xerotic eczema,0.1319,Keratosis pilaris,0.0671,Skin tag,0.0387,Nonspecific (normal),0.0299,Folliculitis,0.0192,Lichen nitidus,0.0163,Cherry Hemangioma,0.0119,Acne,0.0108</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2772,Skin tag,0.2716,Melanocytic nevus,0.1242,Xerotic eczema,0.0577,Herpes zoster,0.0429,Inflammed cyst,0.0259,Contact dermatitis,0.0181,Hemangioma,0.0160,Cherry Hemangioma,0.0158,Dysplastic nevus,0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.1241,Inflammed cyst,0.1139,Angiokeratoma,0.1090,Hemangioma,0.1017,Insect bite,0.0831,Xerotic eczema,0.0704,Skin tag,0.0529,Herpes zoster,0.0351,Herpes simplex,0.0328,Erosion/Laceration,0.0304</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2728,Melanocytic nevus,0.2456,Xerotic eczema,0.0761,Hemangioma,0.0704,Folliculitis,0.0561,Cherry Hemangioma,0.0379,Skin tag,0.0357,Dysplastic nevus,0.0356,Inflammed cyst,0.0240,Nonspecific (normal),0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3270,Insect bite,0.1902,Hematoma,0.0875,Pompholyx,0.0657,Hand eczema,0.0523,Xerotic eczema,0.0477,Nonspecific (normal),0.0327,Congenital nevus,0.0211,Atopic dermatitis,0.0196,Dysplastic nevus,0.0123</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3628,Xerotic eczema,0.2519,Insect bite,0.1283,Nonspecific (normal),0.0832,Erythema nodosum,0.0138,Lentigo,0.0106,Herpes zoster,0.0106,Cherry Hemangioma,0.0104,Folliculitis,0.0100,Epidermal cyst,0.0096</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3633,Insect bite,0.2138,Xerotic eczema,0.1569,Dysplastic nevus,0.0771,Congenital nevus,0.0202,Erythema nodosum,0.0153,Epidermal cyst,0.0144,Nonspecific (normal),0.0120,Herpes zoster,0.0117,Hematoma,0.0113</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Pompholyx,0.2047,Callus,0.1891,Insect bite,0.1033,Hand eczema,0.0927,Keratoderma,0.0588,Xerotic eczema,0.0381,Melanocytic nevus,0.0339,Contact dermatitis,0.0324,Portwine stain,0.0299,Cellulitis,0.0245</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Cherry Hemangioma,0.4871,Insect bite,0.2665,Hemangioma,0.0468,Xerotic eczema,0.0392,Herpes zoster,0.0260,Erosion/Laceration,0.0240,Inflammed cyst,0.0112,Purpura,0.0098,Folliculitis,0.0088,Acne,0.0070</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.4045,Insect bite,0.1800,Xerotic eczema,0.0761,Cherry Hemangioma,0.0440,Inflammed cyst,0.0429,Herpes zoster,0.0397,Erosion/Laceration,0.0273,Epidermal cyst,0.0168,Skin tag,0.0161,Acne,0.0147</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3430,Insect bite,0.2889,Xerotic eczema,0.1319,Keratosis pilaris,0.0671,Skin tag,0.0387,Nonspecific (normal),0.0299,Folliculitis,0.0192,Lichen nitidus,0.0163,Cherry Hemangioma,0.0119,Acne,0.0108</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2772,Skin tag,0.2716,Melanocytic nevus,0.1242,Xerotic eczema,0.0577,Herpes zoster,0.0429,Inflammed cyst,0.0259,Contact dermatitis,0.0181,Hemangioma,0.0160,Cherry Hemangioma,0.0158,Dysplastic nevus,0.0157</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.1241,Inflammed cyst,0.1139,Angiokeratoma,0.1090,Hemangioma,0.1017,Insect bite,0.0831,Xerotic eczema,0.0704,Skin tag,0.0529,Herpes zoster,0.0351,Herpes simplex,0.0328,Erosion/Laceration,0.0304</disease>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2728,Melanocytic nevus,0.2456,Xerotic eczema,0.0761,Hemangioma,0.0704,Folliculitis,0.0561,Cherry Hemangioma,0.0379,Skin tag,0.0357,Dysplastic nevus,0.0356,Inflammed cyst,0.0240,Nonspecific (normal),0.0157</disease>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>502 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+<p>The proxy server received an invalid
+response from an upstream server.<br />
+The proxy server could not handle the request<p>Reason: <strong>Error reading from remote server</strong></p></p>
+</body></html>
+
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3270,Insect bite,0.1902,Hematoma,0.0875,Pompholyx,0.0657,Hand eczema,0.0523,Xerotic eczema,0.0477,Nonspecific (normal),0.0327,Congenital nevus,0.0211,Atopic dermatitis,0.0196,Dysplastic nevus,0.0123</disease> <malignancy_output>2</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3628,Xerotic eczema,0.2519,Insect bite,0.1283,Nonspecific (normal),0.0832,Erythema nodosum,0.0138,Lentigo,0.0106,Herpes zoster,0.0106,Cherry Hemangioma,0.0104,Folliculitis,0.0100,Epidermal cyst,0.0096</disease> <malignancy_output>2</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3633,Insect bite,0.2138,Xerotic eczema,0.1569,Dysplastic nevus,0.0771,Congenital nevus,0.0202,Erythema nodosum,0.0153,Epidermal cyst,0.0144,Nonspecific (normal),0.0120,Herpes zoster,0.0117,Hematoma,0.0113</disease> <malignancy_output>6</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Pompholyx,0.2047,Callus,0.1891,Insect bite,0.1033,Hand eczema,0.0927,Keratoderma,0.0588,Xerotic eczema,0.0381,Melanocytic nevus,0.0339,Contact dermatitis,0.0324,Portwine stain,0.0299,Cellulitis,0.0245</disease> <malignancy_output>1</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Cherry Hemangioma,0.4871,Insect bite,0.2665,Hemangioma,0.0468,Xerotic eczema,0.0392,Herpes zoster,0.0260,Erosion/Laceration,0.0240,Inflammed cyst,0.0112,Purpura,0.0098,Folliculitis,0.0088,Acne,0.0070</disease> <malignancy_output>2</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.4045,Insect bite,0.1800,Xerotic eczema,0.0761,Cherry Hemangioma,0.0440,Inflammed cyst,0.0429,Herpes zoster,0.0397,Erosion/Laceration,0.0273,Epidermal cyst,0.0168,Skin tag,0.0161,Acne,0.0147</disease> <malignancy_output>2</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.3430,Insect bite,0.2889,Xerotic eczema,0.1319,Keratosis pilaris,0.0671,Skin tag,0.0387,Nonspecific (normal),0.0299,Folliculitis,0.0192,Lichen nitidus,0.0163,Cherry Hemangioma,0.0119,Acne,0.0108</disease> <malignancy_output>1</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2772,Skin tag,0.2716,Melanocytic nevus,0.1242,Xerotic eczema,0.0577,Herpes zoster,0.0429,Inflammed cyst,0.0259,Contact dermatitis,0.0181,Hemangioma,0.0160,Cherry Hemangioma,0.0158,Dysplastic nevus,0.0157</disease> <malignancy_output>2</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Melanocytic nevus,0.1241,Inflammed cyst,0.1139,Angiokeratoma,0.1090,Hemangioma,0.1017,Insect bite,0.0831,Xerotic eczema,0.0704,Skin tag,0.0529,Herpes zoster,0.0351,Herpes simplex,0.0328,Erosion/Laceration,0.0304</disease> <malignancy_output>3</malignancy_output>
+<error>0</error> <race>1</race> <sex>1</sex> <age>70</age> <loc>arm</loc> <pruritus>o</pruritus> <pain>o</pain> <onset>w</onset> <meta_used>1</meta_used> <no_photo>1</no_photo> <disease>Insect bite,0.2728,Melanocytic nevus,0.2456,Xerotic eczema,0.0761,Hemangioma,0.0704,Folliculitis,0.0561,Cherry Hemangioma,0.0379,Skin tag,0.0357,Dysplastic nevus,0.0356,Inflammed cyst,0.0240,Nonspecific (normal),0.0157</disease> <malignancy_output>4</malignancy_output>
