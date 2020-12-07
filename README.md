@@ -12,3 +12,6 @@ python3 modelderm.py [filename]
 
 # Test Server
 The current API uses the same model to the alpha version (Build2021; http://t.modelderm.com).
+
+# Algorithm
+The algorithm has been developed and maintained by Han Seung Seog (I Dermatology, clinic).
