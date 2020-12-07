@@ -1,8 +1,9 @@
 # Model Dermatology Online API 
 
-python3 modelderm.py
+<pre><code>python3 modelderm.py
 or
 python3 modelderm.py [filename]
+</code></pre>
 
 Use a POST method to transfer up to 5 images and metadata. Please check the python exmaple (python 2 or python 3). 
 
