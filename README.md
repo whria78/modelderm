@@ -1,4 +1,4 @@
-# Model Dermatology Online API 
+# Model Dermatology API Example
 
 <pre><code>python3 modelderm.py
 or
