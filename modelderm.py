@@ -51,7 +51,7 @@ def get_server_status(url,unique_id):
 
 def modelderm(url,unique_id,image_path):
     args1_=unique_id
-    args2_='<race>1</race><birth>1950</birth><sex>m</sex><location>arm</location><pruritus>o</pruritus><pain>o</pain><onset>w</onset>'
+    args2_='<race>3</race><birth>1978</birth><sex>m</sex><location>arm</location><pruritus>x</pruritus><pain>x</pain><onset>y</onset>'
     
     ### race : skin_type (1~6) 
     ### birth : year 
