@@ -4,6 +4,8 @@ python3 modelderm.py
 or
 python3 modelderm.py [filename]
 
+Use a POST method for transferring images (up to 5 images) and metadata as like the python exmaple. 
+
 # Terms of Use
 1) Please do not submit images without permission of the original owner. All submitted images will be stored as a database. 
 2) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA or CE.
