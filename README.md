@@ -5,10 +5,7 @@ or
 python3 modelderm.py [filename]
 </code></pre>
 
-Use a POST method to transfer up to 5 images and metadata. Please check the python exmaple (python 2 or python 3). 
-
-# Authorization
-At this moment, no authorization required. Please register at http://bbs.modelderm.com . We will notify the policy.
+Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
 
 # Terms of Use
 1) The algorithm is free. The API can be used for any purpose including commercial products.
@@ -16,6 +13,9 @@ At this moment, no authorization required. Please register at http://bbs.modelde
 3) All submitted images and metadata will be stored as a database. The images will be used solely for the training purpose of the algorithm. 
 4) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA or CE.
 5) We are not responsible for inaccurate algorithm diagnosis or technical problems (server down).
+
+# Authorization
+At this moment, no authorization required. Please register at http://bbs.modelderm.com . We will notify the policy.
 
 # Test Server
 The current API uses the same model to the alpha version (Build2021; http://t.modelderm.com).
