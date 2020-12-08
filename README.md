@@ -14,7 +14,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 4) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA or CE, yet.
 5) We are not responsible for inaccurate algorithm diagnosis or technical problems (server down).
 
-# Authorization
+# Authorization (API Key)
 At this moment, no authorization required. Please register at http://bbs.modelderm.com . We will notify the policy.
 
 # Test Server
