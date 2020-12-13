@@ -35,4 +35,8 @@ Published studies : https://bbs.modelderm.com/classification-of-skin-diseases-wi
 7. Interpretation of the Outputs of Deep Learning Model trained with Skin Cancer Dataset. J Invest Dermatol. 2018
 8. Automated Dermatological Diagnosis: Hype or Reality? J Invest Dermatol. 2018
 9. Classification of the Clinical Images for Benign and Malignant Cutaneous Tumors Using a Deep Learning Algorithm. J Invest Dermatol. 2018
+
+preprint
+1. Augmenting the Accuracy of Trainee Doctors in Diagnosing Skin Neoplasms in a Real-World Setting: A Prospective Before and After Study. 2020 (preprint; https://preprints.jmir.org/preprint/26023)
+
 ```
