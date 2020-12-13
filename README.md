@@ -28,6 +28,7 @@ The algorithm has been developed and maintained by Han Seung Seog (I Dermatology
 Published studies : https://bbs.modelderm.com/classification-of-skin-diseases-with-deep-learning/
 
 ```
+Studies related with the algorithm
 1. Assessment of Deep Neural Networks for the Diagnosis of Benign and Malignant Skin Neoplasms in Comparison with Dermatologists: A Retrospective Validation Study. PLOS Medicine, 2020
 2. Performance of a deep neural network in teledermatology: a single‐center prospective diagnostic study. J Eur Acad Dermatol Venereol. 2020
 3. Keratinocytic Skin Cancer Detection on the Face using Region-based Convolutional Neural Network. JAMA Dermatol. 2019
