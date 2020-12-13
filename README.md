@@ -1,4 +1,4 @@
-The algorithm (Model Dermatology) could diagnose 184 skin conditions. The performance of standalone algorithm was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings. Any problems are welcome to contact us by email (whria78@gmail.com).
+The algorithm (Model Dermatology) could diagnose 184 skin conditions. The performance of standalone algorithm was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings. Any problems are welcome to contact me by email (whria78@gmail.com).
 
 # Model Dermatology API Example
 
