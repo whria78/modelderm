@@ -17,8 +17,8 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 # Authorization (API Key)
 At this moment, no authorization required. Please register at http://bbs.modelderm.com . We will notify the policy.
 
-# Test Server
-The realtime DEMO of the API is available at http://t.modelderm.com.
+# web-DEMO
+The realtime DEMO is available at http://t.modelderm.com.
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
