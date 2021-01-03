@@ -20,7 +20,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 At this moment, no authorization required. Please register at http://bbs.modelderm.com . We will notify the policy.
 
 # Web-DEMO
-The realtime DEMO is available at http://t.modelderm.com.
+The realtime DEMO is available at http://t.modelderm.com. This is an example of Triage Service that can be assisted with the algorithm.
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
