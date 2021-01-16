@@ -3,8 +3,6 @@ The algorithm (Model Dermatology) could diagnose 184 skin conditions. The perfor
 # Model Dermatology API Example
 
 <pre><code>python3 modelderm.py
-or
-python3 modelderm.py [filename]
 </code></pre>
 
 Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
@@ -20,7 +18,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 At this moment, no authorization required. Please register at http://bbs.modelderm.com . We will notify the policy.
 
 # Web-DEMO
-The realtime DEMO is available at http://t.modelderm.com. This is an example of Triage Service that can be assisted with the algorithm.
+The realtime DEMO is available at http://t.modelderm.com. 
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
