@@ -107,11 +107,12 @@ result_raw=modelderm(server_url,api_key,img_list).decode('unicode_escape')
 print(result_raw) # = AVERAGING THE OUTPUTS
 
 ###
-### TEST SAMPLES
+### TEST 2 SINGLE CROPS
+### /SAMPLES/crop
 ###
 
 img_crop_path=os.path.join(os.getcwd(),'examples','crop')
-img_org_path=os.path.join(os.getcwd(),'examples','org')
+#img_org_path=os.path.join(os.getcwd(),'examples','org')
 
 img_root=img_crop_path
    
