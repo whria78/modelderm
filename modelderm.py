@@ -17,8 +17,6 @@
 
  
 import os
-img_root=os.path.join(os.getcwd(),'examples')
-
 import requests
 import sys
 import random
@@ -41,28 +39,35 @@ def get_random_alphanumeric_string(length):
 # for unicode support
 def custom_filename(x):return myurl.quote(x)
  
-def get_server_status(url,unique_id):
-    result_=requests.get('%s?%s' % (url,unique_id))
+def get_server_status(url,api_key):
+    result_=requests.get('%s?%s' % (url,api_key))
     if result_.status_code!=200:
         print (result_.status_code)
         sys.exit(1)
     return result_.text.split(',') #currentusers_,message_
 
 
-def modelderm(url,unique_id,image_path):
-    args1_=unique_id
-    args2_='<race>3</race><birth>1978</birth><sex>m</sex><location>arm</location><pruritus>x</pruritus><pain>x</pain><onset>y</onset>'
+def modelderm(url,api_key,image_list):
+    args1_=api_key # API KEY
+    args2_='<id>1234abcd</id><race>3</race><birth>1978</birth><sex>m</sex><location>arm</location><pruritus>x</pruritus><pain>x</pain><onset>y</onset>'
     
     ### race : skin_type (1~6) 
     ### birth : year 
     ### sex : m or f 
-    ### location : <optional text>
     ### pruritus, pain : x = None; o = mild~morderate; v = severe 
     ### onset : d = < 1 week; w = < 1 month; m = < 1 year; y = > 1 year or congenital  
+
+    ### id : patient's id code <optional text>
+    ### body site, or location : arm hand leg ... <optional text>
     
     
     ## Attach up to 5 files ; ignore after >5 photos
-    file_=[('file',(custom_filename(os.path.basename(image_path)),open(image_path,'rb').read(),'Content-Type:image'))]
+    file_=[]
+    for i,image_path in enumerate(image_list):
+        if i>=5:
+            print("WARNING IGNORE : ",img_path)
+            continue
+        file_+=[('file',(custom_filename(os.path.basename(image_path)),open(image_path,'rb').read(),'Content-Type:image'))]
     
     data_={'args1':args1_,'args2':args2_}
 
@@ -77,26 +82,42 @@ server_url='https://t.modelderm.com/api'
 ###
 ### GENERATE UNIQUE ID FOR CHECKING STATUS
 ###
-unique_id=get_random_alphanumeric_string(8)
+api_key=get_random_alphanumeric_string(8)
 
 
 ###
 ### GET SERVER STATUS
 ###
-currentusers_,message_=get_server_status(server_url,unique_id)
+currentusers_,message_=get_server_status(server_url,api_key)
 print("Current users : %s" % (currentusers_))
 print(message_)
 
-###
-### PREPARE IMAGE LIST
+
+### 
+### TEST 1 MULTI CROPS 
 ###
 
-if len(sys.argv)>1:     img_root=str(sys.argv[1])
 
-img_root=os.path.abspath(img_root)
+img_list=[os.path.join(os.getcwd(),'examples','crop','ex (1).jpg'),os.path.join(os.getcwd(),'examples','org','ex (1).jpg')]
+result_raw=modelderm(server_url,api_key,[img_list[0]]).decode('unicode_escape')
+print(result_raw) 
+result_raw=modelderm(server_url,api_key,[img_list[1]]).decode('unicode_escape')
+print(result_raw)
+result_raw=modelderm(server_url,api_key,img_list).decode('unicode_escape')
+print(result_raw) # = AVERAGING THE OUTPUTS
+
+###
+### TEST SAMPLES
+###
+
+img_crop_path=os.path.join(os.getcwd(),'examples','crop')
+img_org_path=os.path.join(os.getcwd(),'examples','org')
+
+img_root=img_crop_path
    
 img_list=[]
 if os.path.isdir(img_root):
+    #root dir
     for root,dirs,files in os.walk(img_root):
         for fname in files:
             ext=(os.path.splitext(fname)[-1]).lower()
@@ -104,11 +125,12 @@ if os.path.isdir(img_root):
                 img_path=os.path.join(root,fname)
                 img_list+=[img_path]
 else:
+    #single file
     img_list=[img_root]
     img_root=os.path.dirname(img_list[0])
 
 print("### Image Source folder  : ",img_root)
-f_result=open('api_modelderm.txt','a')
+f_result=open('log.txt','a')
 
 if len(img_list)==0:
     print("No file exist at %s" % img_root)
@@ -122,7 +144,7 @@ for img_no,img_path in enumerate(img_list):
     ###
     ### RUN ONLINE MODEL ###
     ###    
-    result_raw=modelderm(server_url,unique_id,img_path).decode('unicode_escape')
+    result_raw=modelderm(server_url,api_key,[img_path]).decode('unicode_escape')
     print(result_raw)
     f_result.write(result_raw+'\n')
     
