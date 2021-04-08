@@ -8,10 +8,10 @@ The algorithm (Model Dermatology) could diagnose 184 skin conditions. The perfor
 Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
 
 # Terms of Use
-1) The algorithm is free. The API can be used for any purpose including commercial products.
+1) Free for non-commecial and research purpose. For commercial purpose, please email whria78@gmail.com
 2) Please do not submit images without permission of the original owner. 
 3) All submitted images and metadata will be stored as a database. The images will be used solely for the training purpose of the algorithm. 
-4) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA or CE, yet.
+4) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA or CE, yet. We are preparing for the regulations.
 5) We are not responsible for inaccurate diagnosis or technical problems (server down). Failover server will be available soon.
 
 # Authorization (API Key)
