@@ -9,10 +9,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 
 # Metadata
 If you dont have a meta data, please use as following,
-
-<pre><code>
-"<id>your_id</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>"
-</code></pre>
+<id>your_id</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>
 
 # Terms of Use
 1) Free for non-commecial and research purpose. For commercial purpose, please email whria78@gmail.com
