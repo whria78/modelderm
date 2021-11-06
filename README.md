@@ -11,7 +11,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 If you dont have a meta data, please use as following,
 
 <pre><code>
-args2_='<id>your_id</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>'
+args2_="<id>your_id</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>"
 </code></pre>
 
 # Terms of Use
