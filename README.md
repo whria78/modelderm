@@ -5,6 +5,11 @@ The algorithm (Model Dermatology) could diagnose 184 skin conditions. The perfor
 <pre><code>python3 modelderm.py
 </code></pre>
 
+For the images without metadata, please edit the code as following, 
+```
+args2_='<id>your_id</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>'
+```
+
 Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
 
 # Terms of Use
