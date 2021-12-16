@@ -19,7 +19,9 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 4) We are not responsible for inaccurate diagnosis or technical problems (server down). Failover server will be available soon.
 
 # Authorization (API Key)
-Please register at http://bbs.modelderm.com to use the API.
+Please register at http://bbs.modelderm.com to use the API. 
+The registered email is the API key. 
+The API is open to the computer logged in.
 
 # Web-DEMO
 The realtime DEMO is available at http://modelderm.com. 
