@@ -13,22 +13,19 @@ args2_='<id>image_id</id><race></race><birth></birth><sex></sex><location></loca
 Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
 
 # Terms of Use
-1) Free for non-commecial and research purpose. For commercial purpose, please email whria78@gmail.com
+1) Free for non-commecial and research purpose. 
 2) Please do not submit images without permission of the original owner. 
-3) All submitted images and metadata will be stored as a database. The images will be used solely for the training purpose of the algorithm. 
-4) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA or CE, yet. We are preparing for the regulations.
-5) We are not responsible for inaccurate diagnosis or technical problems (server down). Failover server will be available soon.
+3) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA, yet.
+4) We are not responsible for inaccurate diagnosis or technical problems (server down). Failover server will be available soon.
 
 # Authorization (API Key)
-At this moment, no authorization required. Please register at http://bbs.modelderm.com . We will notify the policy.
+Please register at http://bbs.modelderm.com to use the API.
 
 # Web-DEMO
 The realtime DEMO is available at http://modelderm.com. 
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
-
-Published studies : https://bbs.modelderm.com/classification-of-skin-diseases-with-deep-learning/
 
 ```
 Studies related with the algorithm
@@ -41,7 +38,5 @@ Studies related with the algorithm
 7. Interpretation of the Outputs of Deep Learning Model trained with Skin Cancer Dataset. J Invest Dermatol. 2018
 8. Automated Dermatological Diagnosis: Hype or Reality? J Invest Dermatol. 2018
 9. Classification of the Clinical Images for Benign and Malignant Cutaneous Tumors Using a Deep Learning Algorithm. J Invest Dermatol. 2018
-
-Preprint
-1. Augmenting the Accuracy of Trainee Doctors in Diagnosing Skin Neoplasms in a Real-World Setting: A Prospective Before and After Study. 2020 (preprint; https://preprints.jmir.org/preprint/26023)
+10. Augmenting the Accuracy of Trainee Doctors in Diagnosing Skin Neoplasms in a Real-World Setting: A Prospective Before and After Study. PLOS One, In-press
 ```
