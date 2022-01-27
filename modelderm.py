@@ -76,7 +76,7 @@ def modelderm(url,api_key,image_list):
     return res.content
 
 ### Server List ### 
-server_url='https://t.modelderm.com/api'
+server_url='https://app.skindx.net/api'
 
 
 ###
