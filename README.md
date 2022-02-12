@@ -15,8 +15,9 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 # Terms of Use
 1) Free for non-commecial and research purpose. 
 2) Please do not submit images without permission of the original owner. 
-3) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA, yet. The algorithm marks CE MDR Class I, and we can provide the technical document for the certification of third party applications.
-4) We are not responsible for inaccurate result or technical problems (server down). Failover server is available.
+3) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA, yet. 
+4) The algorithm marks CE MDR Class I, and we can provide the technical document for the certification of third party applications.
+5) We are not responsible for inaccurate result or technical problems (server down). Failover server is available.
 
 # Authorization (API Key)
 Please register at http://bbs.modelderm.com to use the API. 
