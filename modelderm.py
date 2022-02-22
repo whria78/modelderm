@@ -1,5 +1,5 @@
 ###
-### Model Dermatology (http://t.modelderm.com) REST API
+### Model Dermatology REST API
 ### Han Seung Seog (whria78@gmail.com) 
 ### 
 ### 2020-12-6
