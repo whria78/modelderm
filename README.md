@@ -21,7 +21,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 
 # Authorization (API Key)
 Please register at http://bbs.modelderm.com to use the API. 
-The registered email is the API key. 
+Login to https://bbs.modelderm.com using Internet browser, and use the registered email as the API key. 
 The API is open to the computer logged in.
 
 # Web-DEMO
