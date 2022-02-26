@@ -49,7 +49,8 @@ def get_server_status(url,api_key):
 
 def modelderm(url,api_key,image_list):
     args1_=api_key # API KEY
-    args2_='<id>1234abcd</id><race>3</race><birth>1978</birth><sex>m</sex><location>arm</location><pruritus>x</pruritus><pain>x</pain><onset>y</onset>'
+    #args2_='<id>1234abcd</id><race>3</race><birth>1978</birth><sex>m</sex><location>arm</location><pruritus>x</pruritus><pain>x</pain><onset>y</onset>'
+    args2_='<id>1234abcd</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>'
     
     ### race : skin_type (1~6) 
     ### birth : year 
@@ -82,9 +83,11 @@ server_url='https://app0.skindx.net/api'
 ###
 ### GENERATE UNIQUE ID FOR CHECKING STATUS
 ###
-api_key=get_random_alphanumeric_string(8)
-
-
+api_key=""
+if api_key=="":
+    print("Please register at https://bbs.modelderm.com, and then use the email as the api_key.")
+    sys.exit(1)
+  
 ###
 ### GET SERVER STATUS
 ###
