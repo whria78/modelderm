@@ -16,8 +16,8 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 1) Free for non-commecial and research purpose. Please register at http://bbs.modelderm.com first.
 2) Please do not submit images without permission of the original owner. 
 3) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA, yet. 
-4) The algorithm marks CE MDR Class I, and we can provide the technical document for the certification of third party applications.
-5) We are not responsible for inaccurate result or technical problems (server down). Failover server is available.
+4) The DEMO application using the algorithm marks CE MDR Class I.
+5) We are not responsible for inaccurate result or technical problems (server down).
 
 # Authorization (API Key)
 Please register at http://bbs.modelderm.com to use the API. 
@@ -42,5 +42,5 @@ Studies related with the algorithm
 8. Automated Dermatological Diagnosis: Hype or Reality? J Invest Dermatol. 2018
 9. Classification of the Clinical Images for Benign and Malignant Cutaneous Tumors Using a Deep Learning Algorithm. J Invest Dermatol. 2018
 10. Augmenting the Accuracy of Trainee Doctors in Diagnosing Skin Neoplasms in a Real-World Setting: A Prospective Before and After Study. PLOS One, 2022
-11. Evaluation of Artificial Intelligence-assisted Diagnosis of Skin Neoplasms – a single-center, paralleled, unmasked, randomized controlled trial. J Invest Dermatol. 2022 (in-press)
+11. Evaluation of Artificial Intelligence-assisted Diagnosis of Skin Neoplasms – a single-center, paralleled, unmasked, randomized controlled trial. J Invest Dermatol. 2022
 ```
