@@ -17,6 +17,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 2) This is a lite (mobile) version of ModelDerm Build2021.
 3) Please do not submit images without permission of the original owner although we do not save the submitted images. 
 4) We are not responsible for inaccurate result or technical problems (server down).
+5) We do not store the submitted image.
 
 # Authorization (API Key)
 No API key is required.
