@@ -1,8 +1,8 @@
-The algorithm (Model Dermatology) could diagnose 184 skin conditions. The performance of standalone algorithm was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings. Welcome to report any problems (whria78@gmail.com).
+The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings. Welcome to report any problems (whria78@gmail.com).
 
 # Model Dermatology API Example
 
-<pre><code>python3 modelderm.py
+<pre><code>python3 classification_json.py
 </code></pre>
 
 For the images without metadata, please edit the code as following, 
@@ -13,19 +13,16 @@ args2_='<id>image_id</id><race></race><birth></birth><sex></sex><location></loca
 Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
 
 # Terms of Use
-1) Free for non-commecial and research purpose. Please register at http://bbs.modelderm.com first.
+1) Free for non-commecial and research purpose. This is a lite (mobile) version of ModelDerm Build2021.
 2) Please do not submit images without permission of the original owner. 
 3) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA, yet. 
-4) The DEMO application using the algorithm marks CE MDR Class I.
-5) We are not responsible for inaccurate result or technical problems (server down).
+4) We are not responsible for inaccurate result or technical problems (server down).
 
 # Authorization (API Key)
-Please register at http://bbs.modelderm.com to use the API. 
-Login to https://bbs.modelderm.com using Internet browser, and use the registered email as the API key. 
-The API is open to the computer logged in.
+Please use "mobile" as the API key.
 
 # Web-DEMO
-The realtime DEMO is available at http://modelderm.com. 
+The realtime DEMO is available at http://t.modelderm.com. 
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
