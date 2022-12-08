@@ -61,7 +61,7 @@ server_url='https://t.modelderm.com/api'
 ###
 ### GENERATE UNIQUE ID FOR CHECKING STATUS
 ###
-api_key="mobile"
+api_key=""
 
 ###
 ### GET SERVER STATUS

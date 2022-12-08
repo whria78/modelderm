@@ -1,4 +1,4 @@
-The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings. This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version). 
+The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm (Build2021) was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings. This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version) for research purpose or testing. 
 
 # Model Dermatology API Example
 
@@ -19,7 +19,7 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 4) We are not responsible for inaccurate result or technical problems (server down).
 
 # Authorization (API Key)
-Please use "mobile" as the API key.
+No API key is required.
 
 # Web-DEMO
 The realtime DEMO is available at http://t.modelderm.com. 
