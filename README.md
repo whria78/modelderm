@@ -13,9 +13,9 @@ args2_='<id>image_id</id><race></race><birth></birth><sex></sex><location></loca
 Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
 
 # Terms of Use
-1) Free for non-commecial and research purpose. This is a lite (mobile) version of ModelDerm Build2021.
-2) Please do not submit images without permission of the original owner. 
-3) The algorithm has been verified in several retrospective and prospective studies, but please be sure that the algorithm is not certified by FDA, yet. 
+1) Free for non-commecial and research purpose. 
+2) This is a lite (mobile) version of ModelDerm Build2021.
+3) Please do not submit images without permission of the original owner although we do not save the submitted images. 
 4) We are not responsible for inaccurate result or technical problems (server down).
 
 # Authorization (API Key)
@@ -41,3 +41,6 @@ Studies related with the algorithm
 10. Augmenting the Accuracy of Trainee Doctors in Diagnosing Skin Neoplasms in a Real-World Setting: A Prospective Before and After Study. PLOS One, 2022
 11. Evaluation of Artificial Intelligence-assisted Diagnosis of Skin Neoplasms – a single-center, paralleled, unmasked, randomized controlled trial. J Invest Dermatol. 2022
 ```
+
+# Contact
+We hope the algorithm to be widely used in other applications. Please contact to Dr. Han Seung Seog (whria78@gmail.com) 
