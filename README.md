@@ -22,7 +22,9 @@ Use a POST method to transfer up to 5 images and metadata. Please check the pyth
 No API key is required.
 
 # Web-DEMO
-The realtime DEMO is available at http://t.modelderm.com. 
+The realtime DEMO of the lite version is available at http://t.modelderm.com
+
+The DEMO for the commecial version is is available at https://app.skindx.net
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
