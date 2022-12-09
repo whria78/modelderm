@@ -1,16 +1,16 @@
-The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm (Build2021) was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings. This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version) for research purpose or testing. 
+The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm (Build2021) was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings (Build2021; commecial version). This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version) for research purpose or testing. 
 
 # Model Dermatology API Example
 
 <pre><code>python3 classification_json.py
 </code></pre>
 
-For the images without metadata, please edit the code as following, 
+At this moment, no metadata is required as following,
 ```
 args2_='<id>image_id</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>'
 ```
 
-Use a POST method to transfer up to 5 images and metadata. Please check the python example (python 2 or python 3). 
+Use a POST method to transfer up to 5 images with the empty metadata tag. Please check the python example (PYTHON3). 
 
 # Terms of Use
 1) Free for non-commecial and research purpose. 
@@ -25,7 +25,7 @@ No API key is required.
 # Web-DEMO
 The realtime DEMO of the lite version is available at http://t.modelderm.com
 
-The DEMO for the commecial version is is available at https://app.skindx.net
+The DEMO for the commecial version is available at https://app.skindx.net
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
