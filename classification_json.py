@@ -32,14 +32,6 @@ def get_random_alphanumeric_string(length):
 # for unicode support
 def custom_filename(x):return myurl.quote(x)
  
-def get_server_status(url,api_key):
-    result_=requests.get('%s?%s' % (url,api_key))
-    if result_.status_code!=200:
-        print (result_.status_code)
-        sys.exit(1)
-    return result_.text.split(',') #currentusers_,message_
-
-
 def modelderm(url,api_key,image_path,imencoded,meta_):
     url=url+'?json_format=1'
     args1_=api_key # API KEY
@@ -62,13 +54,6 @@ server_url='https://t.modelderm.com/api'
 ### GENERATE UNIQUE ID FOR CHECKING STATUS
 ###
 api_key=""
-
-###
-### GET SERVER STATUS
-###
-currentusers_,message_=get_server_status(server_url,api_key)
-print("Current users : %s" % (currentusers_))
-print(message_)
 
 img_list=[]
 img_root='./images'
