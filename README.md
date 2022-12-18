@@ -34,7 +34,7 @@ TEST2 : https://t2.modelderm.com
 # Web-DEMO
 The realtime DEMO of the lite version is available at http://t.modelderm.com
 
-The DEMO for the commecial version is available at https://app.skindx.net
+The DEMO for the commecial version is available at https://app.skindx.net ; The commercial version requires an API key.
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
