@@ -2,6 +2,8 @@ The algorithm (Model Dermatology) could diagnose 186 skin conditions. The perfor
 
 # Model Dermatology API Example
 
+Note) If too many calls come from the same IP address, it may be delayed or a "too many request" error may occur. It is preferable to call the API from the client side.
+
 <pre><code>python3 classification_json.py
 </code></pre>
 
