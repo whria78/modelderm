@@ -24,6 +24,11 @@ Use a POST method to transfer up to 5 images with the empty metadata tag. Please
 # Authorization (API Key)
 No API key is required.
 
+# Server Address
+MAIN : https://t.modelderm.com
+TEST1 : https://t1.modelderm.com
+TEST2 : https://t2.modelderm.com
+
 # Web-DEMO
 The realtime DEMO of the lite version is available at http://t.modelderm.com
 
