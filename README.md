@@ -1,4 +1,4 @@
-The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm (Build2021) was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings (Build2021; commecial version). This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version).
+The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm (Build2021) was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings (Build2021; commecial version). This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version) for non-commercial purposes.
 
 # Model Dermatology API Example
 
