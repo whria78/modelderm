@@ -1,4 +1,4 @@
-The algorithm (Model Dermatology) could diagnose 186 skin conditions. This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version). It can be use without any restriction (commercial use = okay).
+The algorithm (Model Dermatology) could diagnose 186 skin conditions. This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version). It can be use without any restriction.
 
 # Model Dermatology API Example
 
@@ -15,7 +15,7 @@ args2_='<id>image_id</id><race></race><birth></birth><sex></sex><location></loca
 Use a POST method to transfer up to 5 images. Please check the python example (PYTHON3). 
 
 # Terms of Use
-1) Free without restriction
+1) Free and no restriction
 2) This is a lite version of ModelDerm Build2021.
 3) Please do not submit images without permission of the original owner although we do not save the submitted images. 
 4) We are not responsible for inaccurate result or technical problems (server down).
