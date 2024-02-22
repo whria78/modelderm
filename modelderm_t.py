@@ -1,6 +1,6 @@
 ###
 ### Model Dermatology (http://t.modelderm.com) REST API
-### Han Seung Seog (whria78@gmail.com) 
+### Han Seung Seog (whria78@snu.ac.kr) 
 ### 
 ### 2024-2-22
 ###

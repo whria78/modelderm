@@ -12,7 +12,7 @@ At this moment, no metadata is required as following,
 args2_='<id>image_id</id><race></race><birth></birth><sex></sex><location></location><pruritus></pruritus><pain></pain><onset></onset>'
 ```
 
-Use a POST method to transfer up to 5 images with the empty metadata tag. Please check the python example (PYTHON3). 
+Use a POST method to transfer up to 5 images. Please check the python example (PYTHON3). 
 
 # Terms of Use
 1) Free without restriction
