@@ -1,10 +1,10 @@
-The algorithm (Model Dermatology) could diagnose 186 skin conditions. The performance of standalone algorithm (Build2021) was comparable with that of dermatologists in experimental settings and comparable with that of general physicians in real world settings (Build2021; commecial version). This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version) for non-commercial purposes.
+The algorithm (Model Dermatology) could diagnose 186 skin conditions. This is a lite version of ModelDerm Build2021 (EfficientNet Lite B0; CPU version). It can be use without any restriction (commercial use = okay).
 
 # Model Dermatology API Example
 
 Note) If too many calls come from the same IP address, it may be delayed or a "too many request" error may occur. It is preferable to call the API from the client side.
 
-<pre><code>python3 classification_json.py
+<pre><code>python3 modelderm_t.py
 </code></pre>
 
 At this moment, no metadata is required as following,
@@ -15,22 +15,20 @@ args2_='<id>image_id</id><race></race><birth></birth><sex></sex><location></loca
 Use a POST method to transfer up to 5 images with the empty metadata tag. Please check the python example (PYTHON3). 
 
 # Terms of Use
-1) Free for non-commecial and research purpose. 
+1) Free without restriction
 2) This is a lite version of ModelDerm Build2021.
 3) Please do not submit images without permission of the original owner although we do not save the submitted images. 
 4) We are not responsible for inaccurate result or technical problems (server down).
 5) We do not store the submitted image.
 
 # Authorization (API Key)
-No API key is required.
+API Key = "test"
 
 # Server Address
-MAIN : https://t.modelderm.com
+https://t.modelderm.com
 
 # Web-DEMO
 The realtime DEMO of the lite version is available at http://t.modelderm.com
-
-The DEMO for the commecial version is available at https://app.skindx.net ; The commercial version requires an API key.
 
 # Algorithm
 The algorithm has been developed and maintained by Han Seung Seog (I Dermatology).
@@ -51,4 +49,4 @@ Studies related with the algorithm
 ```
 
 # Contact
-We hope the algorithm to be widely used in other applications. Please contact to Dr. Han Seung Seog (whria78@gmail.com) 
+I hope the algorithm to be widely used in other applications. Please contact to Dr. Han Seung Seog (whria78@snu.ac.kr) 
